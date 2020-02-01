@@ -1,4 +1,3 @@
-showSlides(slideindex = 1);
 function countdown() {
     var seconds = document.getElementById("seconds").value;
 

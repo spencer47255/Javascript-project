@@ -16,8 +16,4 @@ function fix() {
     var y = x.toFixed(2);
     document.getElementById("fix").innerHTML=y;
 }
-function v() {
-    var z = true;
-    var x = String.Valueof(z);
-    document.getElementById("v").innerHTML=x;
-}
+
